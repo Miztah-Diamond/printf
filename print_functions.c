@@ -4,7 +4,7 @@
 
 /**
  * print_char - Prints a char
- * by Stanley and Emi
+ * by Emi and Stanley
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
