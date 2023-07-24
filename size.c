@@ -2,7 +2,7 @@
 
 /**
  * get_size - Calculates the size to cast the argument
- * by Staneley and Emi
+ * by Emi and Stanley
  * @format: Formatted string in which to print the arguments
  * @i: List of arguments to be printed.
  *
